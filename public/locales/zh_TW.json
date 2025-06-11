@@ -1,0 +1,12 @@
+{
+    "Home": "首頁",
+    "Test": "測試",
+    "DeployNow": "即刻部署",
+    "TestPage": "測試頁面",
+    "BackToTestPage": "返回測試頁面",
+    "ReadDocs": "查看文檔",
+    "TestID": "測試 ID：{{id}}",
+    "IDColon": "ID：",
+    "Learn": "學習",
+    "Examples": "範例"
+}

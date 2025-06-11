@@ -1,0 +1,12 @@
+{
+    "Home": "Home",
+    "Test": "Test",
+    "DeployNow": "Deploy now",
+    "TestPage": "Test Page",
+    "BackToTestPage": "Back to Test Page",
+    "ReadDocs": "Read our docs",
+    "TestID": "Test ID: {{id}}",
+    "IDColon": "ID:",
+    "Learn": "Learn",
+    "Examples": "Examples"
+}
